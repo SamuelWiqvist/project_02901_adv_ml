@@ -8,7 +8,7 @@ Something about what software I use.
 
 ### Data
 
-The data can be found [here](https://www.dropbox.com/sh/zfaekmy4257v6af/AACerGW4HcniYoj_SUnvexj6a?dl=0). (add link to dropbox folder later)
+The data can be found [here](https://www.dropbox.com/sh/zfaekmy4257v6af/AACerGW4HcniYoj_SUnvexj6a?dl=0). 
 
 ### Report 
 
