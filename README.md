@@ -8,9 +8,13 @@ Something about what software I use.
 
 ### Data
 
-The data can be found [here](http://google.com). (add link to dropbox folder later)
+The data can be found [here](https://www.dropbox.com/sh/zfaekmy4257v6af/AACerGW4HcniYoj_SUnvexj6a?dl=0). (add link to dropbox folder later)
 
-### About this package
+### Report 
+
+The report that accompanies the code can be found [here](https://v2.overleaf.com/read/tdcqmpmpmrrd).
+
+### About this repository 
 
 Project work for for the graduate course *02901 Advanced Topics in Machine Learning: Computational Tools for Machine Learning in Python* at DTU.
 
