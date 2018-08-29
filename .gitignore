@@ -1,0 +1,6 @@
+# the gitignore file
+
+*.csv
+*.ept
+*.png
+*.pdf
