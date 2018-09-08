@@ -4,7 +4,7 @@ Reanalysis of the MA2 process example in *Learning Summary Statistic for Approxi
 
 ### Software
 
-All calculations are computed in a Laptop with an Intel® Core™ i7-6600U CPU @ 2.60GHz × 4 CPU running Ubuntu 16.04.
+All calculations are computed on a laptop with an Intel® Core™ i7-6600U CPU @ 2.60GHz × 4 processor running Ubuntu 16.04.
 
 The code is written in Python 3.6.5.
 
@@ -25,4 +25,4 @@ The report that accompanies the code can be found [here](https://v2.overleaf.com
 
 ### About this repository
 
-Project work for for the graduate course *02901 Advanced Topics in Machine Learning: Computational Tools for Machine Learning in Python* at DTU.
+Project work for the graduate course *02901 Advanced Topics in Machine Learning: Computational Tools for Machine Learning in Python* at DTU.
